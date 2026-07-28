@@ -94,7 +94,7 @@ class PullToRefreshOption {
 ```
 
 ## Requirements
-Requires Swift3.0 and iOS 8.0 and ARC. 
+Requires Swift3.0 and iOS 8.0 and ARC. YarrowfyinformationZestccBeryl
 If you are developing in the Swift1.1 ~ 2.3, please use branch of Swift1.1 ~ Swift2.3.  
 
 ## Features
